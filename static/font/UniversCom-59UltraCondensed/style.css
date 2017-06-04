@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'UniversCom59UltraCondensed';
+  src: url("UniversCom-59UltraCondensed.eot");
+  /* IE9 Compat Modes */
+  src: url("UniversCom-59UltraCondensed.eot?#iefix") format("embedded-opentype"), url("UniversCom-59UltraCondensed.woff") format("woff"), url("UniversCom-59UltraCondensed.ttf") format("truetype"), url("UniversCom-59UltraCondensed.svg#UniversCom-59UltraCondensed") format("svg");
+  /* Legacy iOS */
+  font-style: normal;
+  font-weight: normal;
+  text-rendering: optimizeLegibility; }

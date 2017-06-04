@@ -1,0 +1,10 @@
+/* Webfont: TrajanPro-Bold */
+@font-face {
+  font-family: 'TrajanPro';
+  src: url("TrajanPro-Bold.eot");
+  /* IE9 Compat Modes */
+  src: url("TrajanPro-Bold.eot?#iefix") format("embedded-opentype"), url("TrajanPro-Bold.woff") format("woff"), url("TrajanPro-Bold.ttf") format("truetype"), url("TrajanPro-Bold.svg#TrajanPro-Bold") format("svg");
+  /* Legacy iOS */
+  font-style: normal;
+  font-weight: bold;
+  text-rendering: optimizeLegibility; }
